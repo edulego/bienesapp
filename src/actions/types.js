@@ -1,0 +1,5 @@
+export const CREATE_BIEN = "CREATE_BIEN";
+export const RETRIEVE_BIENES = "RETRIEVE_BIENES";
+export const UPDATE_BIEN = "UPDATE_BIEN";
+export const DELETE_BIEN = "DELETE_BIEN";
+export const DELETE_ALL_BIENES = "DELETE_ALL_BIENES";
